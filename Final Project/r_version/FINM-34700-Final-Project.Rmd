@@ -1,7 +1,7 @@
 ---
 title: "Predicting Urban NO\\textsubscript{2} Concentrations from Low-Cost Sensor Arrays"
 subtitle: "STAT 24620 / FINM 34700 / STAT 32950 --- Group Data Project, Spring 2026"
-author: "[Name 1], [Name 2], [Name 3]"
+author: "Cole Ginter, Vidhi Jain, Sunil Trivedi, Maisha Miah"
 date: "`r format(Sys.Date(), '%B %d, %Y')`"
 output:
   pdf_document:
